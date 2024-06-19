@@ -8,6 +8,9 @@ Além disso, sou proficiente na otimização de projetos com SASS/LESS, Gulp/Gru
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tizaofoo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=Tizaofoo.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
