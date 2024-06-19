@@ -16,6 +16,10 @@ Além disso, sou proficiente na otimização de projetos com SASS/LESS, Gulp/Gru
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tizaofoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/tiagotorquato/)
+
 
 
 
