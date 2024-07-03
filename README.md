@@ -14,7 +14,7 @@ Além disso, sou proficiente na otimização de projetos com SASS/LESS, Gulp/Gru
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tizaofoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tizaofoo&layout=compact)](https://githubmeu-sites.vercel.app.com//github-readme-stats)
 
 ### Contatos
 
