@@ -10,7 +10,7 @@ Além disso, sou proficiente na otimização de projetos com SASS/LESS, Gulp/Gru
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tizaofoo&repo=Tizaofoo.github.io&theme=dark)](https://github.com/Meu_Sites/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tizaofoo&repo=Tizaofoo.github.io&theme=dark)](https://github.com/Tizaofoo/Meu_Sites/github-readme-stats)
 
 ### Linguagens utilizadas
 
