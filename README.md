@@ -10,7 +10,7 @@ Além disso, sou proficiente na otimização de projetos com SASS/LESS, Gulp/Gru
 <div>
 <a href="https://github.com/Tizaofoo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tizaofoo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Tizaofoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tizaofoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Ferramentas e Tecnoligia
